@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar money-transfer-microservice/target/money-transfer-microservice-1.0.0.jar
+web: java -DPORT=$PORT $JAVA_OPTS -jar money-transfer-microservice/target/money-transfer-microservice-1.0.0.jar
