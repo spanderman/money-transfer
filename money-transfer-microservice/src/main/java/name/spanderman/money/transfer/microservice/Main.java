@@ -71,7 +71,7 @@ public class Main {
 		}
 		boolean heroku = false;
 		String port = System.getenv("PORT");
-		if (port == null) {
+		if (port != null) {
 			heroku = true;
 		}
 		final HttpServer server = startServer(heroku ? Integer.valueOf(port) : PORT);
