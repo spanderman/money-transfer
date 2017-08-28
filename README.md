@@ -22,4 +22,4 @@ Framework/APIS used are:
 
 App is currently deployed on Heroku:
 
-1. TODO
+1. https://fast-sands-55467.herokuapp.com/application.wadl
