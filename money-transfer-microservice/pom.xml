@@ -144,7 +144,7 @@
 		<jsonj.version>2.43</jsonj.version>
 		<jooq.version>3.9.5</jooq.version>
 		<h2.version>1.4.196</h2.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<maven-compiler-plugin.version>3.6.2</maven-compiler-plugin.version>
 		<exec-maven-plugin.version>1.6.0</exec-maven-plugin.version>
 		<maven-shade-plugin.version>3.0.0</maven-shade-plugin.version>
